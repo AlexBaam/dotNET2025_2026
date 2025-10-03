@@ -115,3 +115,6 @@ class Program
         }
     }
 }
+
+// Record folosim cand sunt doar proprietati
+// Class cand avem si comportament (behavior)
