@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlexA\\Documents\\GitHub\\dotNET2025_2026\\Lab_01\\Lab_01\\Lab_01.csproj",
-      "projectName": "Lab_01",
-      "projectPath": "C:\\Users\\AlexA\\Documents\\GitHub\\dotNET2025_2026\\Lab_01\\Lab_01\\Lab_01.csproj",
+      "projectUniqueName": "C:\\Users\\AlexA\\Documents\\GitHub\\dotNET2025_2026\\Lab_01\\BookLibrary\\BookLibrary.csproj",
+      "projectName": "BookLibrary",
+      "projectPath": "C:\\Users\\AlexA\\Documents\\GitHub\\dotNET2025_2026\\Lab_01\\BookLibrary\\BookLibrary.csproj",
       "packagesPath": "C:\\Users\\AlexA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlexA\\Documents\\GitHub\\dotNET2025_2026\\Lab_01\\Lab_01\\obj\\",
+      "outputPath": "C:\\Users\\AlexA\\Documents\\GitHub\\dotNET2025_2026\\Lab_01\\BookLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AlexA\\AppData\\Roaming\\NuGet\\NuGet.Config"

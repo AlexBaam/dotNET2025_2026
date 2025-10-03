@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_01", "Lab_01\Lab_01.csproj", "{D1DE9D85-A210-40E6-B98B-F9FC8B7AB0D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{D1DE9D85-A210-40E6-B98B-F9FC8B7AB0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary\BookLibrary.csproj", "{15E1AFD2-4501-41C5-9837-AD16C641071B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{D1DE9D85-A210-40E6-B98B-F9FC8B7AB0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1DE9D85-A210-40E6-B98B-F9FC8B7AB0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1DE9D85-A210-40E6-B98B-F9FC8B7AB0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E1AFD2-4501-41C5-9837-AD16C641071B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E1AFD2-4501-41C5-9837-AD16C641071B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E1AFD2-4501-41C5-9837-AD16C641071B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E1AFD2-4501-41C5-9837-AD16C641071B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
