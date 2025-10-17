@@ -1,1 +1,10 @@
 ﻿.idea
+
+#Lab 1
+/Lab_01/.idea
+/Lab_01/BookLibrary/bin
+/Lab_01/BookLibrary/obj
+
+#Lab 3
+/Web_in_dotNet/BookManagement/bin
+/Web_in_dotNet/BookManagement/obj
