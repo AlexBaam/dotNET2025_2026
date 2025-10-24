@@ -1,13 +1,18 @@
 ﻿.idea
 
 #Lab 1
-/Lab_01/.idea
-/Lab_01/BookLibrary/bin
-/Lab_01/BookLibrary/obj
+/Lab01/.idea
+/Lab01/BookLibrary/bin
+/Lab01/BookLibrary/obj
+/Lab01/Sample/obj
+
+#Lab 2
+/Lab02_BookAndBorrower/BookAndBorrower/bin
+/Lab02_BookAndBorrower/BookAndBorrower/obj
 
 #Lab 3
-/Web_in_dotNet/BookManagement/bin
-/Web_in_dotNet/BookManagement/obj
+/Lab03_WebApi/BookManagement/bin
+/Lab03_WebApi/BookManagement/obj
 
 #Lab 4
 /ProductsManagement/.idea
