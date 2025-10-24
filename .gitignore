@@ -8,3 +8,8 @@
 #Lab 3
 /Web_in_dotNet/BookManagement/bin
 /Web_in_dotNet/BookManagement/obj
+
+#Lab 4
+/ProductsManagement/.idea
+/ProductsManagement/ProductsManagement/bin
+/ProductsManagement/ProductsManagement/obj
