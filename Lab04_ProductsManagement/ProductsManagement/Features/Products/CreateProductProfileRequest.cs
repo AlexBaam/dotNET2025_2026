@@ -8,4 +8,5 @@ public record CreateProductProfileRequest(
     decimal Price,
     DateTime ReleaseDate,
     string? ImageUrl,
-    int StockQuantity );
+    int StockQuantity = 1
+);
